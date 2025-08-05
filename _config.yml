@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default"
 title                    : "Xiurui Fu"
 title_separator          : "-"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Xiurui Fu (傅修睿)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Undergraduate"
   location         : 
   employer         : "Hunan University"
   uri              : # URL
